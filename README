@@ -1,0 +1,10 @@
+README
+
+The purpose of "preplot" is to perform various data analysis tasks pertaining
+to cosmological dark matter simulations, especially those analyzed using the
+ROCKSTAR halo finder and CONSISTENT TREES merger tree code.
+
+Several primary types of analysis are supported, including analysis of the
+ROCKSTAR catalogs themselves, the merger trees, the halo profiles, the
+voxelized densities, and the cosmic web.
+
